@@ -1,3 +1,3 @@
 AutoClicker который можно настроить под себя, работает как и в обычном Minecraft так и в лаунчерных играх (Hypixel, Cristalix и другие)
 
-<img width="297" height="174" alt="image" src="https://github.com/user-attachments/assets/9e3915a5-c124-45fc-95af-98e023b8e9da" />
+<img width="416" height="559" alt="image" src="https://github.com/user-attachments/assets/bef7c4b8-971b-4e3a-94ef-1bf6db521763" />
